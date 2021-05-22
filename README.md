@@ -10,3 +10,5 @@
 [Link to Charles Page](https://github.com/cnlohr/colorchord/tree/master/embedded8266)
 
 [GitHub](http://github.com)
+
+[My Getting Started Page](https://github.com/lafarkle/repo-001/blob/main/docs/GETTING_STARTED.md)
