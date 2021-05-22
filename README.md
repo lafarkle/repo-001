@@ -1,2 +1,6 @@
-# repo-001
-My first repository attempt
+# My First Repository Attempt
+## H2 Tag
+### H3 Tag
+*Italic*
+**Bold**
+
